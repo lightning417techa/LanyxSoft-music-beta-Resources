@@ -1,1 +1,1 @@
-# LanyxSoft-music-beta-Resources
+# music-beta-Resources
